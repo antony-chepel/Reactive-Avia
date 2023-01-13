@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reactive Avia</string>
+    <string name="facebook_app_id">1331363664105374</string>
+    <string name="fb_login_protocol_scheme">fb1331363664105374</string>
+    <string name="facebook_client_token">f23fe03a299430b7f557ae5e7d6bce02</string>
+    <string name="file_chooser_title">Choose image</string>
+    <string name="cannot_open_file_chooser_txt">Can not open file chooser</string>
+    <string name="camera_permission_granted_txt">Permission granted</string>
+    <string name="camera_permission_denied_txt">Permission denied</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

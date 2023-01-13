@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/filter_navvv"
+    app:startDestination="@id/ockvxds">
+
+    <fragment
+        android:id="@+id/ockvxds"
+        android:name="com.skgames.trafficridero.frsauhsda.Gfesrxuzucisjsa"
+        android:label="ockzkxc"
+        tools:layout="@layout/mkovcijcv" >
+        <action
+            android:id="@+id/rokdkosf"
+            app:destination="@id/ovckbkcv"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+    </fragment>
+    <fragment
+        android:id="@+id/ovckbkcv"
+        android:name="com.skgames.trafficridero.woxpzok.Xaoijxzcuhs"
+        android:label="zozkx"
+        tools:layout="@layout/mixzoijsa" >
+        <action
+            android:id="@+id/jucxijds"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out"
+            app:destination="@id/mjbnvivdf" />
+    </fragment>
+    <fragment
+        android:id="@+id/mjbnvivdf"
+        android:name="com.skgames.trafficridero.bgxuzu.Tixokxzij"
+        android:label="pzpzx"
+        tools:layout="@layout/rwisidjajisdx" >
+        <action
+            android:id="@+id/ookdkofs"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out"
+            app:destination="@id/mvcmbimcbv" />
+    </fragment>
+    <fragment
+        android:id="@+id/mvcmbimcbv"
+        android:name="com.skgames.trafficridero.bgxuzu.Rtzxuhzx"
+        android:label="ookskdkxz"
+        tools:layout="@layout/buvhusd" >
+        <action
+            android:id="@+id/action_beeeeforFiiilFragment_to_fiiilttterFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out"
+            app:destination="@id/mcoxoxxxdsffd" />
+    </fragment>
+    <fragment
+        android:id="@+id/mcoxoxxxdsffd"
+        android:name="com.skgames.trafficridero.bgxuzu.Bgtxzychu"
+        android:label="zzozxkoxzax"
+        tools:layout="@layout/cucxijcijd" />
+</navigation>
